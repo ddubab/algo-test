@@ -1,6 +1,7 @@
 ## 수현이의 코테일기 >< 
 5.05 - PR/Lv3/선입 선출 스케줄링  <br/>
 &nbsp; &nbsp; &nbsp; &nbsp; - PR/Lv3/가장 긴 팰린드롬  <br/>
+&nbsp; &nbsp; &nbsp; &nbsp; - PR/Lv3/스티커 모으기(2) <br/>
 5.04 - PR/Lv3/숫자게임  <br/>
 &nbsp; &nbsp; &nbsp; &nbsp; - PR/Lv3/최고의 집합  <br/>
 5.03 - PR/Lv3/기지국 설치  <br/>
